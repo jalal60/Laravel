@@ -1,3 +1,34 @@
+PHP & Laravel Developer's Environment Setup
+Essential Softwares:
+Note: If you have any php binary file on C drive then delete that.
+
+XAMPP ( Download Link: https://www.apachefriends.org/download.html )
+
+XAMPP Installation Guide for Windows ( https://www.temok.com/blog/xampp-installation-on-windows/ )
+
+
+or, MAMP ( Specially for Mac) ( Download Link: https://www.mamp.info/en/downloads/)
+
+Node.js (LTS version) ( Download Link: https://nodejs.org/en/download/ )
+
+Composer ( Download Link: https://getcomposer.org/download/ )
+
+Composer Installation Guide for Windows ( https://www.javatpoint.com/how-to-install-composer-on-windows )
+
+Git ( Download Link: https://git-scm.com/downloads )
+
+Visual Studio Code (Free Code Editor) ( Download Link: https://code.visualstudio.com/download )
+
+Note: As PHPStorm is a paid IDE so you can use its 30 Days trial version. After that you can use another email address for the next 30 Days. By repeating this process you can use PHPStrom for free when you are in your learning phase.
+
+PHPStorm (Paid Code Editor) ( Download Link: https://www.jetbrains.com/phpstorm/download )
+If you are going to use PHPStorm as your code editor then no need to install any plugin as PHPStorm ships with built-in support for PHP and Laravel.
+Database Client Softwares:(You can use any of the three)
+dbForge Studio for MySQL (Database Client) ( Download Link: https://www.devart.com/dbforge/mysql/studio/download.html )
+TablePlus (Database Client) ( Download Link: https://tableplus.com/download )
+HeidiSQL (Database Client) ( Download Link: https://www.heidisql.com/download.php )
+VS Code Extensions:
+Note: If you don't want to install the extentions from No. 4 to 15 one by one, then you can just install this Laravel Extension Pack extention which will also install all of those plugins as well.
 SL No:	Plugins
 1	PHP Intelephense
 2	PHP DocBlocker
