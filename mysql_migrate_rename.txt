@@ -1,0 +1,3 @@
+MySQL Update file for renameColumn() migration
+doctrine/dbal
+-composer require doctrine/dbal
